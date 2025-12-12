@@ -72,7 +72,7 @@ You are controlling a robot car that starts at the origin `(0, 0)` on a 2D plane
 
 ### **Test Case 3: Complex Movement with Multiple Turns**  
 **Input**: `["E", 5, "R", 3, "L", 2, "S", 4, "E", 1]`  
-**Expected Output**: `[4, 6]`  
+**Expected Output**: `[3, 8]`  
 
 #### **Step-by-Step Explanation**:
 | Command | Action                          | Position  | Direction | Engine State |
